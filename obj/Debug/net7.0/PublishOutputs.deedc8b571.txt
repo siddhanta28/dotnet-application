@@ -1,0 +1,7 @@
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/MyWebApp
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/appsettings.json
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/MyWebApp.dll
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/MyWebApp.deps.json
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/MyWebApp.runtimeconfig.json
+/home/siddhanta.tripathi/MyWebApp/bin/Debug/net7.0/publish/MyWebApp.pdb
